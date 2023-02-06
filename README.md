@@ -1,4 +1,13 @@
 # Socket-CLI
+
+```
+  ____   ___   ____ _  _______ _____    ____ _     ___ 
+ / ___| / _ \ / ___| |/ / ____|_   _|  / ___| |   |_ _|
+ \___ \| | | | |   | ' /|  _|   | |   | |   | |    | | 
+  ___) | |_| | |___| . \| |___  | |   | |___| |___ | | 
+ |____/ \___/ \____|_|\_\_____| |_|    \____|_____|___|
+```
+
 The application utilizes socket programming to create a client-server connection, where clients can connect to the server to start a chat session.
 
 The chat experience is purely text-based and users can type in messages to send to the other connected clients. The server is responsible for maintaining a list of all connected clients and forwarding messages between them in real-time. The application is designed to be lightweight and fast, making it easy for users to chat with each other without any lag or delays.
