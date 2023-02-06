@@ -14,7 +14,15 @@ except socket.error as err:
     #connection refused exception handling 
     print(err) 
     sys.exit(1) 
- 
+
+print("""
+  ____   ___   ____ _  _______ _____    ____ _     ___ 
+ / ___| / _ \ / ___| |/ / ____|_   _|  / ___| |   |_ _|
+ \___ \| | | | |   | ' /|  _|   | |   | |   | |    | | 
+  ___) | |_| | |___| . \| |___  | |   | |___| |___ | | 
+ |____/ \___/ \____|_|\_\_____| |_|    \____|_____|___|
+                                                       
+""")
 print("Connected to Chat Server") 
  
 while True: 
