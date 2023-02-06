@@ -23,10 +23,10 @@ Note: It is important to make sure that the server's firewall is configured to a
 
 If you encounter any bugs or issues while using this chat application, please open a new issue in this repository. When opening a new issue, please include the following information:
 
-1. A clear and concise description of the problem you're facing.
-2. Steps to reproduce the issue, if possible.
-3 .Any relevant logs, error messages, or screenshots.
-4. The operating system and version you're running on.
+1. A clear and concise description of the problem you're facing.  
+2. Steps to reproduce the issue, if possible.  
+3. Any relevant logs, error messages, or screenshots.  
+4. The operating system and version you're running on.  
 
 By providing this information, you'll help us resolve the issue as quickly as possible. Thank you for taking the time to report any issues you encounter while using this chat application.
 
