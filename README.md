@@ -9,8 +9,8 @@ This application will only work in the same network.
 
 ### Running the application
 1. Clone the repository that contains the chat application.
-2. On the device that will act as the chat server, run the file ```server.py```. You'll need to provide the port number that the server will listen on.
-3. On each device that will act as a chat client, run the file ```client.py```. You'll need to provide the public IP address of the server and the port number that the server is listening on.
+2. On the device that will act as the chat server, run the file ```server/server.py```. You'll need to provide the port number that the server will listen on.
+3. On each device that will act as a chat client, run the file ```client/client.py```. You'll need to provide the public IP address of the server and the port number that the server is listening on.
 4. Once the client is connected to the server, you can start chatting with other connected clients. Enjoy endless communications! 💬
 
 Note: It is important to make sure that the server's firewall is configured to allow incoming connections on the port used by the chat application and that the client is connecting to the correct public IP address of the server.
