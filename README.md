@@ -25,7 +25,7 @@ This application will only work in the same network.
 Note: It is important to make sure that the server's firewall is configured to allow incoming connections on the port used by the chat application and that the client is connecting to the correct public IP address of the server.
 
 ### Common Errors
-1. Firewall Configuration: On the server device, make sure that the firewall is configured to allow incoming connections on the port used by the chat application.
+1. Firewall Configuration: On the server & chat device, make sure that the firewall is configured to allow incoming & outgoing connections on the port used by the chat application.
 2. Dynamic IP Address: Public IP addresses may change over time, so confirm the public IP address of the server and ensure that the client is connecting to the correct address.
 
 ### Issues
